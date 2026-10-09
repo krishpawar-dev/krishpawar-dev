@@ -1,6 +1,6 @@
 👋 Hey, I'm Krish Pawar
 
-
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
@@ -16,8 +16,9 @@ Building responsive, scalable, and user-focused web applications.
 
 [📧 Email](mailto:pawarkrish99@gmail.com)
 
-
 !Profile Views
+
+</div>
 
 
 💫 About Me
