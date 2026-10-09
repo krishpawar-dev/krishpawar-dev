@@ -94,13 +94,13 @@ Note: Add verified repository and live-demo links to individual projects when av
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishpawar-dev&showicons=true&theme=tokyonight&hideborder=true&rank_icon=github" alt="Krish's GitHub statistics" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishpawar-dev&showicons=true&theme=tokyonight&hideborder=true&rank_icon=github" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishpawar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishpawar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=krishpawar-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=krishpawar-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
