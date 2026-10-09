@@ -8,7 +8,14 @@
 
 Building responsive, scalable, and user-focused web applications.
 
-![Portfolio](https://img.shields.io/badge/Portfolio-VisitMyWebsite-58A6FF?style=for-the-badge&logo=vercel&logoColor=white) ![LinkedIn](https://www.linkedin.com/in/pawarkrish21/) ![GitHub](https://github.com/krishpawar-dev)
+[🌐 Portfolio](https://your-portfolio-link.com)
+
+[💼 LinkedIn](https://www.linkedin.com/in/pawarkrish21/)
+
+[🐙 GitHub](https://github.com/krishpawar-dev)
+
+[📧 Email](mailto:pawarkrish99@gmail.com)
+
 
 !Profile Views
 
@@ -52,6 +59,7 @@ Implemented CRUD operations and attendance management.
 Collaborated with a three-member team during an institute hackathon.
 
 🚚 TransitOps — Fleet Management Platform
+
 Tech: React.js · Node.js · Express.js · MongoDB
 
 Built a platform to streamline coordination between dispatchers and drivers.
@@ -59,6 +67,7 @@ Implemented role-based access control (RBAC).
 Developed dashboards for fleet utilization and fuel consumption.
 
 📚 SkillForge — Learning Management Platform
+
 Tech: React.js · Tailwind CSS
 
 Developed a responsive learning management interface.
@@ -66,6 +75,7 @@ Applied lazy loading and memoization to improve rendering performance.
 Focused on reusable components and cross-device usability.
 
 ✈️ Travel & Tourism Website
+
 Tech: React.js · Tailwind CSS · React Router
 
 Built a responsive travel website with client-side navigation.
@@ -73,6 +83,7 @@ Organized reusable UI components and application structure.
 Prioritized a consistent user experience across devices.
 
 ⚡ Ola Electric Landing Page
+
 Tech: HTML · CSS · JavaScript
 
 Created a responsive landing page inspired by Ola Electric.
