@@ -16,7 +16,7 @@ Building responsive, scalable, and user-focused web applications.
 
 [📧 Email](mailto:pawarkrish99@gmail.com)
 
-!Profile Views
+Profile Views
 
 </div>
 
@@ -129,7 +129,7 @@ I'm always excited to learn, collaborate, and create meaningful digital experien
 
 Have an idea or an interesting project? Let's connect!
 
-!📧[Email](mailto:pawarkrish99@gmail.com) !💼[LinkedIn](https://www.linkedin.com/in/pawarkrish21/)
+📧[Email](mailto:pawarkrish99@gmail.com) 💼[LinkedIn](https://www.linkedin.com/in/pawarkrish21/)
 
 ⭐ If you like my work, consider exploring my repositories and leaving a star!
 
