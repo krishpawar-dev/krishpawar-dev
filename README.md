@@ -129,7 +129,7 @@ I'm always excited to learn, collaborate, and create meaningful digital experien
 
 Have an idea or an interesting project? Let's connect!
 
-![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-ConnectwithMe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](mailto:pawarkrish99@gmail.com) ![LinkedIn](https://www.linkedin.com/in/pawarkrish21/)
 
 ⭐ If you like my work, consider exploring my repositories and leaving a star!
 
