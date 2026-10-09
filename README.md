@@ -1,18 +1,125 @@
-# 💫 About Me:
-# Hi 👋 I'm Krish Pawar<br><br>💻 Passionate Full Stack Web Developer from India  <br>🚀 I love building responsive and modern web applications  <br>🌱 Currently improving my skills in MERN Stack & Backend Development  <br><br>## 👨‍💻 About Me<br>- 🔭 Working on Full Stack Web Projects<br>- 🌐 Skilled in HTML, CSS, JavaScript, React & Node.js <br>- ⚡ Experience with MongoDB, Express.js <br>- 📱 Creating Responsive Websites & Web Applications<br>- 🤝 Open for Freelance Projects & Collaboration<br><br>## 🛠 Tech Stack<br>Frontend: HTML | CSS | JavaScript | React.js | Bootstrap | Tailwind CSS <br>Backend: Node.js | MongoDB | Express.js  <br>Database: MongoDB  <br>Tools: Git | GitHub | VS Code<br><br>## 📌 Current Goals<br>- Build real-world scalable projects<br>- Improve React & MERN Stack skills<br>- Contribute to Open Source<br><br>## 📫 Connect With Me<br>- GitHub: https://github.com/krishpawar-dev<br>- LinkedIn: https://www.linkedin.com/in/pawarkrish21/
+👋 Hey, I'm Krish Pawar
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__krish__1225_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawarkrish99@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krishpawar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krishpawar-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishpawar-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💻 Full Stack Developer | MERN Stack Enthusiast
 
----
-[![](https://visitcount.itsvg.in/api?id=krishpawar-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+Building responsive, scalable, and user-focused web applications.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Portfolio](https://img.shields.io/badge/Portfolio-VisitMyWebsite-58A6FF?style=for-the-badge&logo=vercel&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)
+
+!Profile Views
+
+</div>
+
+💫 About Me
+
+I'm a Full Stack Developer from Ahmedabad, Gujarat, India, passionate about transforming ideas into practical and engaging digital experiences.
+
+🔭 Building full-stack web applications using the MERN stack.
+⚛️ Working with React.js, JavaScript, Node.js, Express.js, and MongoDB.
+🔐 Interested in REST APIs, authentication, role-based access control, and backend architecture.
+🌱 Currently exploring TypeScript, Docker, CI/CD, and scalable application design.
+🏆 Secured 3rd Place in an Institute Hackathon.
+🤝 Open to collaboration, internships, and suitable development opportunities.
+🎯 Focused on writing maintainable code and building production-ready applications.
+🛠️ Tech Stack
+🎨 Frontend Development
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap&perline=7" alt="Frontend skills" /> </p>
+
+⚙️ Backend & Database
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=7" alt="Backend and database skills" /> </p>
+
+🔧 Tools & Platforms
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=7" alt="Developer tools" /> </p>
+
+📚 Currently Learning
+
+<p> <img src="https://skillicons.dev/icons?i=typescript,docker,githubactions&perline=7" alt="Technologies I'm learning" /> </p>
+
+🚀 Featured Projects
+🎓 Student Management System
+
+Tech: React · Tailwind CSS · Node.js · MongoDB
+
+Developed a centralized system for managing student records.
+Implemented CRUD operations and attendance management.
+Collaborated with a three-member team during an institute hackathon.
+🚚 TransitOps — Fleet Management Platform
+
+Tech: React.js · Node.js · Express.js · MongoDB
+
+Built a platform to streamline coordination between dispatchers and drivers.
+Implemented role-based access control (RBAC).
+Developed dashboards for fleet utilization and fuel consumption.
+📚 SkillForge — Learning Management Platform
+
+Tech: React.js · Tailwind CSS
+
+Developed a responsive learning management interface.
+Applied lazy loading and memoization to improve rendering performance.
+Focused on reusable components and cross-device usability.
+✈️ Travel & Tourism Website
+
+Tech: React.js · Tailwind CSS · React Router
+
+Built a responsive travel website with client-side navigation.
+Organized reusable UI components and application structure.
+Prioritized a consistent user experience across devices.
+⚡ Ola Electric Landing Page
+
+Tech: HTML · CSS · JavaScript
+
+Created a responsive landing page inspired by Ola Electric.
+Added interactive animations and smooth-scrolling effects.
+Focused on responsive layouts and browser compatibility.
+Note: Add verified repository and live-demo links to individual projects when available.
+📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishpawar-dev&showicons=true&theme=tokyonight&hideborder=true&rank_icon=github" alt="Krish's GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishpawar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=krishpawar-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+🎯 Goals & Growth
+🚀 Build scalable and secure MERN stack applications.
+🧠 Strengthen backend architecture and API security.
+🐳 Learn Docker, TypeScript, and CI/CD workflows.
+🌍 Contribute to open-source projects.
+🤝 Collaborate with developers to build real-world products.
+🎓 Education
+
+Bachelor of Engineering — Information Technology
+Swarrnim Startup & Innovation University · 2026–Present
+
+Diploma in Computer Engineering
+Monark University · 2022–2025
+
+Full Stack Development — Part-time / Certification
+Creative Design & Multimedia Institute · 2025–Present
+
+<div align="center">
+
+💬 Let's Build Something Great Together!
+
+I'm always excited to learn, collaborate, and create meaningful digital experiences.
+
+Have an idea or an interesting project? Let's connect!
+
+![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-ConnectwithMe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+⭐ If you like my work, consider exploring my repositories and leaving a star!
+
+</div>
