@@ -8,7 +8,7 @@
 
 Building responsive, scalable, and user-focused web applications.
 
-[🌐 Portfolio]([https://your-portfolio-link.com](https://krish-portfolio-nine-eosin.vercel.app/))
+[🌐 Portfolio](https://krish-portfolio-nine-eosin.vercel.app/)
 
 [💼 LinkedIn](https://www.linkedin.com/in/pawarkrish21/)
 
